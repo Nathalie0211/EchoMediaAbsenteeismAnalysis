@@ -17,9 +17,9 @@ Employee absenteeism is a critical challenge that impacts productivity, team dyn
 - Continuous Monitoring: Utilize Power BI dashboards to track trends and refine policies in real time.
 
 ## Tools & Technologies:
-Power BI – Data visualization and trend analysis
-Excel – Data preprocessing and statistical computations
-HR Analytics – Strategic workforce insights and predictive modeling
+- Power BI – Data visualization and trend analysis
+- Excel – Data preprocessing and statistical computations
+- HR Analytics – Strategic workforce insights and predictive modeling
 
 ## Conclusion
 This project provides actionable insights to reduce absenteeism, boost employee retention, and foster a more engaged workforce at Echo Media. By embracing data-driven decision-making, organizations can create a workplace culture that promotes both productivity and well-being.
